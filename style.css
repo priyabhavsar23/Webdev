@@ -1,0 +1,32 @@
+/* body{
+    background-color: black;
+}
+
+h1,h3,label{
+    color: white;
+} */
+
+/* 
+ */
+/* 
+#hitcheckbox , #votebtn{
+    text-align: center;
+    font-size:xx-large;
+} */
+
+form{
+    margin: auto;
+    text-align: center;
+    
+}
+#textbox{
+    text-align: center;
+    border:color(rgb(234, 25, 25));
+    font-size: x-large;
+}
+label{
+    font-weight:bold;
+}
+button:hover{
+    background-color: blueviolet;
+}
